@@ -1,7 +1,11 @@
 #include <stdio.h>
+#include <conio.h>
   
-int main(int argc, char **argv)
+void main()
 {
+  
+  //print function 
         printf("Hello World\n");
-        return 0;
+ 
+  //no need to return any value bacause we have written void main there       
 }
